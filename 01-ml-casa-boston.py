@@ -7,7 +7,7 @@ from sklearn.model_selection import ShuffleSplit
 import visuals as vs
 
 # Pretty display for notebooks
-#%matplotlib inline
+%matplotlib inline
 
 # Load the Boston housing dataset
 data = datasets.load_boston
